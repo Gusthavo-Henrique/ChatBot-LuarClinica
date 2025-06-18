@@ -9,7 +9,7 @@ from Fluxos.fluxo_remocao_tattoo import TattooRemovalFlow
 from Fluxos.fluxo_glanuloma import GranulomaFlow
 from Fluxos.fluxo_pierc_preco import PrecoPiercingFlow
 from Fluxos.fluxo_pierc_cuidados import CuidadosPiercingFlow
-from Fluxos.fluxo_sugestão import SugestaoFlow
+from Fluxos.fluxo_sugestao import SugestaoFlow
 
 import os
 import time
